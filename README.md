@@ -23,9 +23,10 @@ Train
 
 For training, you need to type the following command in each model folder:
 
+```bash
 g++ train_cnn.cpp -o Train -O3 -pthread
-
 ./Train
+```
 
 The training model file will be saved in folder ./out/ .
 
@@ -34,9 +35,10 @@ Test
 
 For testing, you need to type the following command in each model folder:
 
+```bash
 g++ work.cpp -o Test -O3 -pthread
-
 ./Test
+```
 
 The testing result which reports the precision/recall curve will be shown in ./out/pr.txt.
 
