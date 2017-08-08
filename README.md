@@ -3,7 +3,7 @@ Codes and Dataset for ‘‘Incorporating Relation Paths in Neural Relation Extr
 
 ## Cite
 
-If you use the code or dataset, please cite the following paper:
+If you use the codes or dataset, please cite the following paper:
 
 [Zeng et al., 2017] Wenyuan Zeng, Yankai Lin, Zhiyuan Liu, and Maosong Sun. Incorporating Relation Paths in Neural Relation Extraction. In Proceedings of EMNLP.
 
