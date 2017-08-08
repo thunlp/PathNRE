@@ -2,24 +2,20 @@
 Codes and Dataset for ‘‘Incorporating Relation Paths in Neural Relation Extraction’’.
 
 ## Cite
-==========
 
 If you use the code or dataset, please cite the following paper:
 
 [Zeng et al., 2017] Wenyuan Zeng, Yankai Lin, Zhiyuan Liu, and Maosong Sun. Incorporating Relation Paths in Neural Relation Extraction. In Proceedings of EMNLP.
 
 ## Codes
-==========
 
 The source codes of baselines and our methods are put in the folders CNN+rand/, CNN+max/, Path+rand/, Path+max/ respectively.
 
 ## Dataset
-==========
 
 You could find the download link and description of the dataset from data folder. To run the model, you need to download and unzip the dataset, and put it into the folder of this repository.
 
 ## Train
-==========
 
 For training, you need to type the following command in each model folder:
 
@@ -31,7 +27,6 @@ g++ train_cnn.cpp -o Train -O3 -pthread
 The training model file will be saved in folder ./out/ .
 
 ## Test
-==========
 
 For testing, you need to type the following command in each model folder:
 
