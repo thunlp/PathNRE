@@ -1,3 +1,4 @@
+Modified on my own linux
 # PathNRE
 Codes and Dataset for EMNLP2017 paper ‘‘Incorporating Relation Paths in Neural Relation Extraction’’.
 
