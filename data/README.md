@@ -1,5 +1,5 @@
 # Dataset
-You could download the dataset from https://drive.google.com/file/d/0B_TJXoToQ4r4QWQtOFRsbEZwTmM/view?usp=sharing. 
+You could download the dataset from https://drive.google.com/file/d/1fThys1-OKgsDcy0wTRhf0eYU4zSrB7dm/view?usp=sharing. 
 
 The dataset contains four files, including train.txt, valid.txt, test.txt and relation2id.txt.
 
