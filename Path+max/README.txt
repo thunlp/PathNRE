@@ -4,9 +4,11 @@ Each folder contains codes for a model. To run the code, you need:
 
 1)Download the dataset, and put it in to the folder “data”.
 2)Access to a folder.
-3)Run this code in your terminal: g++ train_cnn.cpp -o Train -pthread -O3
-4)Run the file “Train”.
-5)The model will be stored in “./out” folder.
+3)Run this code in your terminal: g++ path.cpp -o Path -pthread -O3
+4)Run the file "Path"
+5)Run this code in your terminal: g++ train_cnn.cpp -o Train -pthread -O3
+6)Run the file “Train”.
+7)The model will be stored in “./out” folder.
 
 To test the model, you need:
 1)Access to the same folder.
